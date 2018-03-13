@@ -1,0 +1,27 @@
+Binary search trees
+
+AVL trees
+
+Heaps
+
+Red-Black trees
+
+Splay trees
+
+B-trees
+
+Tries
+
+Treaps
+
+Howdy folks! It's me, David (AKA Dave, the Brave) back with a fresh new question! Sadly, this will be my last shitpost genuinely relevant question for this semester, but fear not, because I shall rise again in Architecture. As a matter of fact Dr.Gheith encourages shit-posting asking genuinely thought-provoking, interesting questions on Piazza, which means everyone will be treated to a Dave-the-Brave memefest next semester!
+
+This is actually my own harrowing experience trying to solve the seventh question on the final, which involved discovering some special paths in Binary trees, which the question referred to as 'Isil paths'. So after reading the question, I had the brilliant idea of visiting Isil and following her to see which path she takes. I asked Tres if I could leave the room, but he wouldn't let me leave! Frustrated by his response, I tried to call Isil to ask her which path she takes. Turns out, though, that I had Jacob's number saved instead
+
+So next I tried thinking about how Isil would approach this problem. I tried roo-writing all the nodes as their successors, but sadly this roo-writing was a failure. Then I remembered something about Hamiltonian paths that Isil had mentioned in class. So tried to sing all the songs I could remember from Hamilton, hoping that the songs contained some sort of clue that would help me 
+
+So I decided to search for Isil paths online, but oddly enough, all the results I got were about some terrorist group. I tried to think of reasons why Dr. Lin would want to bring up terrorist groups in a question that was about binary trees and shortest paths, but I could think of any.
+
+So next I had the brilliant idea of autogenerating all the paths of a binary tree on a computer. So I got my computer out of my bag (which went unnoticed by Tres, who, was busy on his own computer). However, my first issue was trying to create a binary tree on my computer. So I opened up MS Paint (it's such a wonderful program, why wouldn't anyone use it to make a tree). So I drew this amazing apple tree, and even put some colors into it. I even drew some nice mountains in the background, and a Tres sleeping underneath(with long hair, to make him look like Newton). When I was done however, I realized that my tree looked nothing like the tree in the question!
+
+By this point, I had invested so much time in drawing that tree that I couldn't afford to go back.
